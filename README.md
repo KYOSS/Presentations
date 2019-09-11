@@ -4,5 +4,6 @@ Presentations from the [KyOSS](http://kyoss.org/) monthly meeting.
 
 ## Presentations
 
-* [August 2019](Aug%202019)
-* [July 2019](Jul%202019)
+2019
+* [August meeting](2019/08-August)
+* [July meeting](2019/07-July)
